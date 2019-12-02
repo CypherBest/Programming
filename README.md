@@ -1,2 +1,2 @@
 # Programming
-![prntscrn](prntscrn.jpg)
+![prntscrn](prntscrn.png)
